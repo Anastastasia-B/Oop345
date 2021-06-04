@@ -1,0 +1,10 @@
+C:\Users\anast\source\repos\Serialization2\XmlTransform\bin\Debug\XmlTransform.dll
+C:\Users\anast\source\repos\Serialization2\XmlTransform\bin\Debug\XmlTransform.pdb
+C:\Users\anast\source\repos\Serialization2\XmlTransform\bin\Debug\PluginInterface.dll
+C:\Users\anast\source\repos\Serialization2\XmlTransform\bin\Debug\PluginInterface.pdb
+C:\Users\anast\source\repos\Serialization2\XmlTransform\obj\Debug\XmlTransform.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Serialization2\XmlTransform\obj\Debug\XmlTransform.csproj.CopyComplete
+C:\Users\anast\source\repos\Serialization2\XmlTransform\obj\Debug\XmlTransform.dll
+C:\Users\anast\source\repos\Serialization2\XmlTransform\obj\Debug\XmlTransform.pdb
+C:\Users\anast\source\repos\Serialization2\XmlTransform\bin\Debug\stylesheet.xslt
+C:\Users\anast\source\repos\Serialization2\XmlTransform\obj\Debug\XmlTransform.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\anast\source\repos\Serialization2\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\anast\source\repos\Serialization2\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\anast\source\repos\Serialization2\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\anast\source\repos\Serialization2\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Serialization2\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\anast\source\repos\Serialization2\PluginInterface\obj\Debug\PluginInterface.pdb

@@ -1,0 +1,11 @@
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\bin\Debug\XmlToJsonConvert.dll
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\bin\Debug\XmlToJsonConvert.pdb
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\bin\Debug\PluginInterface.dll
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\bin\Debug\PluginInterface.pdb
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\obj\Debug\XmlToJsonConvert.csprojAssemblyReference.cache
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\obj\Debug\XmlToJsonConvert.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\obj\Debug\XmlToJsonConvert.csproj.CopyComplete
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\obj\Debug\XmlToJsonConvert.dll
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\obj\Debug\XmlToJsonConvert.pdb
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anast\source\repos\Serialization2\XmlToJsonConvert\bin\Debug\Newtonsoft.Json.xml
